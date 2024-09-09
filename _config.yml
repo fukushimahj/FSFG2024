@@ -6,7 +6,8 @@ plugins:
   - jekyll-sitemap
   
 #google_analytics: G-5NFMZNJW4J
-theme: minima
+#theme: minima
+theme: slate
 
 base_url: /pages
 
