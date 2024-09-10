@@ -2,35 +2,6 @@ title: FSFG2024
 description: 初代星・初代銀河研究会2024
 author: 
 
-#plugins:
-#  - jekyll-sitemap
-#google_analytics: G-5NFMZNJW4J
-theme: jekyll-theme-slate
-
-base_url: /pages
-
-# Minima social links
-#twitter_username: fukushimahaji
-#github_username: fukushimahj
-
-# Minima: show excerpts in the frontpage
-show_excerpts: true
-
-minima:
-  date_format: "%Y-%m-%d"
-
-# Minima: custom header links
-header_pages:
-  - frontpage.md
-  - registration.md
-
-include:
-#    - _pages
-
-exclude: 
-#    - .gitignore
-#    - docker-compose.yml
-#    - Gemfile
-#    - Gemfile.lock
-#    - LICENSE
-#    - README.md
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
