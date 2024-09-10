@@ -6,21 +6,20 @@ list_title: FSFG2024
 ---
 <span style="font-size: 250%;"> 初代星・初代銀河研究会2024 </span>
 
-<span style="font-size: 150%; color: black;">日程 </span> 
+<span style="font-size: 120%; color: black;">日程 </span> 
 
-<span style="font-size: 120%; color: black;"> 2024年11月11日(月)-11月13日(水)  </span>
+<span style="font-size: 100%; color: black;"> 2024年11月11日(月)-11月13日(水)  </span>
 <br><br>
 
-<span style="font-size: 150%; color: black;">場所 </span> 
+<span style="font-size: 120%; color: black;">場所 </span> 
 
-<span style="font-size: 120%; color: black;"> 信州大学　長野キャンパス 　([交通アクセス](https://www.shinshu-u.ac.jp/access/nagano_technology/))</span>
+<span style="font-size: 100%; color: black;"> 信州大学　長野キャンパス 　([交通アクセス](https://www.shinshu-u.ac.jp/access/nagano_technology/))</span>
 
-<span style="font-size: 120%; color: black;"> 〒380-8553　長野県長野市若里4-17-1</span>
-<br><br>
+<span style="font-size: 100%; color: black;"> 〒380-8553　長野県長野市若里4-17-1</span>
+<br>
 
+<span style="font-size: 120%; color: black;">開催趣旨 </span> 
 
-
-<span style="font-size: 150%; color: black;">開催趣旨 </span> 
 本研究会は、宇宙初期の天体形成・進化に関連した研究の現状を総括し、今後の課題について議論を交わし研究を発展させることを目的に、毎年開催しているものです。研究会の話題は初代星・初代銀河に限らず、
 
 - 巨大ブラックホールの起源とその成長
@@ -34,7 +33,7 @@ list_title: FSFG2024
 
 <br><br>
 
-<span style="font-size: 150%; color: black;">基調講演者（50音順・敬称略）</span> 
+<span style="font-size: 120%; color: black;">基調講演者（50音順・敬称略）</span> 
 - 大内 正己 (東京大学/NAOJ)      : 遠方銀河形成
 - 尾上 匡房 (Kavli IPMU)         : 巨大ブラックホール形成
 - 衣川智弥  (信州大学)           : 連星進化・重力波
@@ -45,10 +44,10 @@ list_title: FSFG2024
 - 町田正博  (九州大学)           : 現在の星形成
 <br><br>
 
-<span style="font-size: 150%; color: black;">[過去の研究会](http://tpweb2.phys.konan-u.ac.jp/~shodai/)</span>
+<span style="font-size: 120%; color: black;">[過去の研究会](http://tpweb2.phys.konan-u.ac.jp/~shodai/)</span>
 <br><br>
 
-<span style="font-size: 150%; color: black;">研究会世話人 </span>
+<span style="font-size: 120%; color: black;">研究会世話人 </span>
 
 梅村 雅之 (筑波大学), 大向 一行 (東北大学), 衣川智弥(信州大学; LOC), 須佐 元 (甲南大学)
 
@@ -57,15 +56,15 @@ list_title: FSFG2024
 福島 肇 (筑波大学), 細川 隆史(京都大学), 町田 正博 (九州大学), 吉田 直紀 (東京大学)
 <br><br>
 
-<span style="font-size: 150%; color: black;">問い合わせ </span>
+<span style="font-size: 120%; color: black;">問い合わせ </span>
 
 福島　肇 (筑波大学)  fukushima_at_ccs.tsukuba.ac.jp
 <br><br>
 
-<span style="font-size: 150%; color: black;">INFORMATION </span>
+<span style="font-size: 120%; color: black;">INFORMATION </span>
 <br>
 
-09.12 参加登録を開始しました(登録は[こちら](https://docs.google.com/forms/d/e/1FAIpQLSf23WHCZq365EamPw6Ue3hptvZHcMAMonWf_MvIlOR6NOvvzw/viewform))
+09.11 参加登録を開始しました(登録は[こちら](https://docs.google.com/forms/d/e/1FAIpQLScxgiD9PvwE_A2Avn75gvqGE3gPDapgCiGX8tubfbVhWBqT8Q/viewform))
 <br><br>
 
 
