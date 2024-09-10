@@ -1,4 +1,6 @@
 title: FSFG2024
 description: 初代星・初代銀河研究会2024
 author: 
-theme: jekyll-theme-cayman
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
