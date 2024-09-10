@@ -17,6 +17,7 @@ list_title: FSFG2024
 
 〒380-8553　長野県長野市若里4-17-1
 <br>
+<br>
 
 <span style="font-size: 120%; color: black;">開催趣旨 </span> 
 
@@ -30,6 +31,7 @@ list_title: FSFG2024
 
 など研究の進展と共に広がっています。これら初期宇宙と密接に関連した天体について、理論・観測を問わず議論する研究会と位置付けています。この分野に興味がある・これから研究を始めたいと考えている方々の参加も歓迎いたします。奮ってご参加頂けますよう、よろしくお願いします。
 <br>
+<br>
 
 <span style="font-size: 120%; color: black;">基調講演者（50音順・敬称略）</span> 
 - 大内 正己 (東京大学/NAOJ)      : 遠方銀河形成
@@ -41,8 +43,10 @@ list_title: FSFG2024
 - 藤林翔    (東北大学)           : 恒星の爆発現象
 - 町田正博  (九州大学)           : 現在の星形成
 <br>
+<br>
 
 <span style="font-size: 120%; color: black;">[過去の研究会](http://tpweb2.phys.konan-u.ac.jp/~shodai/)</span>
+<br>
 <br>
 
 <span style="font-size: 120%; color: black;">研究会世話人 </span>
@@ -53,14 +57,15 @@ list_title: FSFG2024
 
 福島 肇 (筑波大学), 細川 隆史(京都大学), 町田 正博 (九州大学), 吉田 直紀 (東京大学)
 <br>
+<br>
 
 <span style="font-size: 120%; color: black;">問い合わせ </span>
 
 福島　肇 (筑波大学)  fukushima_at_ccs.tsukuba.ac.jp
 <br>
+<br>
 
 <span style="font-size: 120%; color: black;">INFORMATION </span>
-<br>
 
 09.11 参加登録を開始しました(登録は[こちら](https://docs.google.com/forms/d/e/1FAIpQLScxgiD9PvwE_A2Avn75gvqGE3gPDapgCiGX8tubfbVhWBqT8Q/viewform))
 <br><br>
