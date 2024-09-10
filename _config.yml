@@ -2,10 +2,10 @@ title: FSFG2024
 description: 初代星・初代銀河研究会2024
 author: 
 
-plugins:
-  - jekyll-sitemap
+#plugins:
+#  - jekyll-sitemap
 #google_analytics: G-5NFMZNJW4J
-theme: minima
+theme: jekyll-theme-slate
 
 base_url: /pages
 
