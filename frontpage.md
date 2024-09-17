@@ -13,7 +13,7 @@ list_title: FSFG2024
 
 <span style="font-size: 120%; color: black;">場所 </span> 
 
-信州大学　長野キャンパス 太田国際記念館 ([交通アクセス](https://www.shinshu-u.ac.jp/access/nagano_technology/), [キャンパスマップ](https://www.shinshu-u.ac.jp/guidance/guide/nagano_technology/#campusmap)E9)
+信州大学　長野キャンパス 太田国際記念館 ([交通アクセス](https://www.shinshu-u.ac.jp/access/nagano_technology/), [キャンパスマップ](https://www.shinshu-u.ac.jp/guidance/guide/nagano_technology/#campusmap)内のE9)
 
 〒380-8553　長野県長野市若里4-17-1
 <br>
