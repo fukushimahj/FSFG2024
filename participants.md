@@ -4,8 +4,6 @@ layout: page
 title: 参加者リスト/Participant List
 ---
 
-# 参加者リスト
-
 細川隆史（京都大学）  
 谷川衝（福井県立大学）  
 衣川智弥（信州大学）  
