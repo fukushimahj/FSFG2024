@@ -2,7 +2,7 @@
 ---
 permalink: /participants
 layout: page
-title: 参加者リスト
+title: 参加者リスト/Participant List
 ---
 
 # 参加者リスト

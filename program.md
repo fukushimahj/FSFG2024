@@ -1,7 +1,7 @@
 ---
 permalink: /program
 layout: page
-title: プログラム(Program)
+title: プログラム/Program
 ---
 
 

@@ -25,7 +25,7 @@ header_pages:
   - frontpage.md
   - registration.md
   - program.md
-  - participants.md
+  - participants.md 
 
 include:
 #    - _pages
