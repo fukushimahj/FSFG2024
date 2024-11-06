@@ -67,7 +67,7 @@ list_title: FSFG2024
 
 <span style="font-size: 120%; color: black;">INFORMATION </span>
 
-09.11 参加登録を開始しました(登録は[こちら](https://docs.google.com/forms/d/e/1FAIpQLScxgiD9PvwE_A2Avn75gvqGE3gPDapgCiGX8tubfbVhWBqT8Q/viewform))
+11.06 プログラムを公開しました。
 <br><br>
 
 
