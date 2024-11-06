@@ -1,4 +1,3 @@
-
 ---
 permalink: /participants
 layout: page
