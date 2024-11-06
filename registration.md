@@ -4,4 +4,4 @@ layout: page
 title: 参加登録/Registration
 ---
 
-参加登録は締め切りました。
+オンライン参加希望の方は、[こちら](https://docs.google.com/forms/d/e/1FAIpQLScFdaX-xVbfQdVsZGNGgBJBTE4BcyKQpI_KY_lVIfCQHpjemA/viewform)のフォームから申し込みください。
