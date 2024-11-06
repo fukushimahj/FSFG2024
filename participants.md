@@ -1,3 +1,10 @@
+
+---
+permalink: /participants
+layout: page
+title: 参加者リスト
+---
+
 # 参加者リスト
 
 細川隆史（京都大学）  

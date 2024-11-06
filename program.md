@@ -1,3 +1,10 @@
+---
+permalink: /program
+layout: page
+title: プログラム(Program)
+---
+
+
 <span style="font-size: 150%; color: black;">11月11日(月)</span>
 
 | 時刻||名前|所属|講演タイトル|
