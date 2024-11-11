@@ -35,7 +35,7 @@ title: プログラム/Program
 |1030||休憩|||
 |1050|I|服部公平|統計数理研究所<br>国立天文台|銀河考古学|
 |1135||松井瀬奈|名古屋大学|Analysis of low metallicity stars in the Leiptr stream|
-|1155||岡田寛子|兵庫県立大学|Subaru/HDS と Seimei/GAOES-RV による金属欠乏星の高分散分光観測|
+|1155||岡田寛子|兵庫県立大学|weak r-process 元素合成の起源|
 |1215||昼食|||
 |1345|I|衣川智弥|信州大学|初代星起源の重力波|
 |1430||野村真理子|弘前大学|Line-driven disc winds from supercritical accretion flow: implications for BH growth|
