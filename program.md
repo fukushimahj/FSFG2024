@@ -20,8 +20,8 @@ title: プログラム/Program
 |1455||影浦優太|東京大学|Lyα輝線観測で探る宇宙再電離史と再電離源|
 |1515||豊内大輔|大阪大学|[最新の遠方銀河観測から紐解く初代銀河形成](https://fukushimahj.github.io/FSFG2024/pdfs/D_toyouchi.pdf)|
 |1535||休憩|||
-|1555|I|藤井通子|東京大学|星一つ一つを再現した大質量星団形成シミュレーション|
-|1640||前田龍之介|東北大学|宇宙初期環境におけるHIガス衝突による大質量星団形成|
+|1555|I|藤井通子|東京大学|[星一つ一つを再現した大質量星団形成シミュレーション](https://fukushimahj.github.io/FSFG2024/pdfs/First_star_first_galaxy_workshop2024_fujiiM.pdf)|
+|1640||前田龍之介|東北大学|[宇宙初期環境におけるHIガス衝突による大質量星団形成](https://fukushimahj.github.io/FSFG2024/pdfs/FSFG_2024_ryunosuke_maeda.pdf)|
 
 
 
