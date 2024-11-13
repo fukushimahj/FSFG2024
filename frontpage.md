@@ -45,6 +45,8 @@ list_title: FSFG2024
 <br>
 <br>
 
+<span style="font-size: 120%; color: black;">[研究会の様子](https://fukushimahj.github.io/FSFG2024/picture)</span>
+<br>
 <span style="font-size: 120%; color: black;">[過去の研究会](http://tpweb2.phys.konan-u.ac.jp/~shodai/)</span>
 <br>
 <br>
@@ -67,7 +69,7 @@ list_title: FSFG2024
 
 <span style="font-size: 120%; color: black;">INFORMATION </span>
 
-11.06 プログラムを公開しました。
+11.06 プログラムを公開しました。<br>
 <br><br>
 
 
