@@ -30,7 +30,7 @@ title: プログラム/Program
 
 | 時刻||名前|所属|講演タイトル|
 |:-:|:-:|:------:|:-----:|----|
-|0950||石山智明|千葉大学|初代星が形成するダークマターハローの合体形成史|
+|0950||石山智明|千葉大学|[初代星が形成するダークマターハローの合体形成史](https://fukushimahj.github.io/FSFG2024/pdfs/ishiyama.pdf)|
 |1010||Hai-XiaMa|名古屋大学|Addressing the Crises of the ΛCDM Model on Galactic Scales|
 |1030||休憩|||
 |1050|I|服部公平|統計数理研究所<br>国立天文台|銀河考古学|
@@ -41,7 +41,7 @@ title: プログラム/Program
 |1430||野村真理子|弘前大学|Line-driven disc winds from supercritical accretion flow: implications for BH growth|
 |1450||休憩|||
 |1510|I|尾上匡房|Kavli IPMU|JWST初年度観測から得られた超巨大ブラックホール初期成長の描像|
-|1555||木村和貴|東北大学|The Impact of X-ray on Direct Collapse under HERA Constraints|
+|1555||木村和貴|東北大学|[The Impact of X-ray on Direct Collapse under HERA Constraints](https://fukushimahj.github.io/FSFG2024/pdfs/kimura.pdf)|
 |1615||休憩|||
 |1635||喜友名正樹|京都大学|cold accretionと輻射フィードバックによる超大質量星形成|
 |1655||大向一行|東北大学|低金属度環境における超大質量星および高密度星団の形成|
