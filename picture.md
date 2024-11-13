@@ -5,6 +5,6 @@
 
 - 集合写真
 <p align="center">
-<img src="./pictures/IMG_8173.jpeg" width="950px">
+<img src="./picture/IMG_8173.jpeg" width="950px">
 </p>
 
