@@ -61,7 +61,7 @@ title: プログラム/Program
 |1035||休憩|||
 |1055||福島肇|筑波大学|[GPU上で動くAMR流体計算コードの開発と現状について](https://fukushimahj.github.io/FSFG2024/pdfs/FSFG2024_Fukushima.pdf)|
 |1115||鈴口智也|京都大学|[輻射流体シミュレーションによる連星ブラックホールの軌道進化計算](https://fukushimahj.github.io/FSFG2024/pdfs/suzuguchi.pdf), [[pptx](https://fukushimahj.github.io/FSFG2024/pdfs/suzuguchi.pptx)]|
-|1135||定成健児エリック|甲南大学|KH収縮期における近接連星形成の可能性|
+|1135||定成健児エリック|甲南大学|[KH収縮期における近接連星形成の可能性](https://fukushimahj.github.io/FSFG2024/pdfs/Sadanari_2024_11.pdf)|
 |1155||昼食|||
 |1325|I|町田正博|九州大学|現在の星形成|
 |1410||大山航|京都大学|[始原ガスによるガスリッチデブリ円盤の形成可能性](https://fukushimahj.github.io/FSFG2024/pdfs/Oyama_FSFG2024.pdf), [[pptx]](https://fukushimahj.github.io/FSFG2024/pdfs/Oyama_FSFG2024.pptx)|
