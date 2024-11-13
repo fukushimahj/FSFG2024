@@ -6,8 +6,6 @@ list_title: FSFG2024
 ---
 <span style="font-size: 250%;"> 初代星・初代銀河研究会2024 </span>
 
-<span style="font-size: 120%; color: black;">[研究会の様子(写真)](https://fukushimahj.github.io/FSFG2024/picture)</span>
-
 <span style="font-size: 120%; color: black;">日程 </span> 
 
 2024年11月11日(月)-11月13日(水) 
@@ -47,6 +45,9 @@ list_title: FSFG2024
 <br>
 <br>
 
+<span style="font-size: 120%; color: black;">[研究会の様子(写真)](https://fukushimahj.github.io/FSFG2024/picture)</span>
+<br>
+<br>
 <span style="font-size: 120%; color: black;">[過去の研究会](http://tpweb2.phys.konan-u.ac.jp/~shodai/)</span>
 <br>
 <br>

@@ -23,11 +23,11 @@
 </p>
 <br>
 <p align="center">
-<img src="./picture/IMG_8169.jpeg" width="950px">
+<img src="./picture/IMG_8169.JPG" width="950px">
 </p>
 <br>
 <p align="center">
-<img src="./picture/IMG_8172.jpeg" width="950px">
+<img src="./picture/IMG_8172.JPG" width="950px">
 </p>
 <br>
 
