@@ -43,8 +43,8 @@ title: プログラム/Program
 |1510|I|尾上匡房|Kavli IPMU|JWST初年度観測から得られた超巨大ブラックホール初期成長の描像|
 |1555||木村和貴|東北大学|[The Impact of X-ray on Direct Collapse under HERA Constraints](https://fukushimahj.github.io/FSFG2024/pdfs/kimura.pdf)|
 |1615||休憩|||
-|1635||喜友名正樹|京都大学|cold accretionと輻射フィードバックによる超大質量星形成|
-|1655||大向一行|東北大学|低金属度環境における超大質量星および高密度星団の形成|
+|1635||喜友名正樹|京都大学|[cold accretionと輻射フィードバックによる超大質量星形成](https://fukushimahj.github.io/FSFG2024/pdfs/Masaki_Kiyuna.pdf)|
+|1655||大向一行|東北大学|[低金属度環境における超大質量星および高密度星団の形成](https://fukushimahj.github.io/FSFG2024/pdfs/omukai.pdf)|
 
 懇親会: [信州長屋酒場](https://marutomisuisan.jpn.com/nagaya-shinsyu/) 18:30開始
 
