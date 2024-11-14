@@ -66,6 +66,6 @@ title: プログラム/Program
 |1325|I|町田正博|九州大学|現在の星形成|
 |1410||大山航|京都大学|[始原ガスによるガスリッチデブリ円盤の形成可能性](https://fukushimahj.github.io/FSFG2024/pdfs/Oyama_FSFG2024.pdf), [[pptx]](https://fukushimahj.github.io/FSFG2024/pdfs/Oyama_FSFG2024.pptx)|
 |1430||水谷耕介 |大阪大学|[輻射圧を考慮した共通外層期の3次元流体シミュレーション](https://fukushimahj.github.io/FSFG2024/pdfs/20241113_FSFG_Mizutani.pdf)|
-|1450||  || 終わりに|
+|1450||須佐元|甲南大学| [終わりに](https://fukushimahj.github.io/FSFG2024/pdfs/susa.pdf)|
 
 
