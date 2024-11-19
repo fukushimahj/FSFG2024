@@ -10,7 +10,7 @@ title: プログラム/Program
 | 時刻||名前|所属|講演タイトル|
 |:-:|:-:|:------:|:-----:|----|
 |1030||  || はじめに|
-|1035|I|杉村和幸|北海道大学|[初代星形成シミュレーションの最近の進展](https://fukushimahj.github.io/FSFG2024/pdfs/Kazuyuki_Sugimura.pdf)|
+|1035|I|杉村和幸|北海道大学|[初代星形成シミュレーションの最近の進展](https://fukushimahj.github.io/FSFG2024/pdfs/sugimura.pdf)|
 |1120||松田凌|北海道大学|[宇宙論的シミュレーションにおける初代星フィードバックの初代星質量およびハロー質量依存性](https://fukushimahj.github.io/FSFG2024/pdfs/matsuda.pdf), [[pptx](https://fukushimahj.github.io/FSFG2024/pdfs/matsuda.pptx)]|
 |1140||石田怜士|東北大学|[初代銀河の形成過程における種族II星の初期質量関数とその影響](https://fukushimahj.github.io/FSFG2024/pdfs/reishi_ishida.pdf)|
 |1200||昼食|||
@@ -63,7 +63,7 @@ title: プログラム/Program
 |1115||鈴口智也|京都大学|[輻射流体シミュレーションによる連星ブラックホールの軌道進化計算](https://fukushimahj.github.io/FSFG2024/pdfs/suzuguchi.pdf), [[pptx](https://fukushimahj.github.io/FSFG2024/pdfs/suzuguchi.pptx)]|
 |1135||定成健児エリック|甲南大学|[KH収縮期における近接連星形成の可能性](https://fukushimahj.github.io/FSFG2024/pdfs/Sadanari_2024_11.pdf)|
 |1155||昼食|||
-|1325|I|町田正博|九州大学|現在の星形成|
+|1325|I|町田正博|九州大学|[現在の星形成](https://fukushimahj.github.io/FSFG2024/pdfs/Masahiro_Machida.pdf)|
 |1410||大山航|京都大学|[始原ガスによるガスリッチデブリ円盤の形成可能性](https://fukushimahj.github.io/FSFG2024/pdfs/Oyama_FSFG2024.pdf), [[pptx]](https://fukushimahj.github.io/FSFG2024/pdfs/Oyama_FSFG2024.pptx)|
 |1430||水谷耕介 |大阪大学|[輻射圧を考慮した共通外層期の3次元流体シミュレーション](https://fukushimahj.github.io/FSFG2024/pdfs/20241113_FSFG_Mizutani.pdf)|
 |1450||須佐元|甲南大学| [終わりに](https://fukushimahj.github.io/FSFG2024/pdfs/susa.pdf)|
