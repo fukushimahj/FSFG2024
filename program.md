@@ -17,7 +17,7 @@ title: プログラム/Program
 |1330|I|大内正己|国立天文台<br>東京大学|初期銀河と宇宙再電離の観測研究最前線：JWSTと地上望遠鏡の協創|
 |1415||清田朋和|総研大<br>国立天文台|JWSTで探るz=6.6のHimikoの性質|
 |1435||休憩|||
-|1455||影浦優太|東京大学|Lyα輝線観測で探る宇宙再電離史と再電離源|
+|1455||影浦優太|東京大学|[Lyα輝線観測で探る宇宙再電離史と再電離源](https://fukushimahj.github.io/FSFG2024/pdfs/FSG_Kageura_241111.pdf)|
 |1515||豊内大輔|大阪大学|[最新の遠方銀河観測から紐解く初代銀河形成](https://fukushimahj.github.io/FSFG2024/pdfs/D_toyouchi.pdf)|
 |1535||休憩|||
 |1555|I|藤井通子|東京大学|[星一つ一つを再現した大質量星団形成シミュレーション](https://fukushimahj.github.io/FSFG2024/pdfs/First_star_first_galaxy_workshop2024_fujiiM.pdf)|
