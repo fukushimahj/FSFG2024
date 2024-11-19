@@ -56,7 +56,7 @@ title: プログラム/Program
 
 | 時刻||名前|所属|講演タイトル|
 |:-:|:-:|:------:|:-----:|----|
-|0930|I|藤林翔|東北大学|回転大質量星の重力崩壊と爆発現象|
+|0930|I|藤林翔|東北大学|[回転大質量星の重力崩壊と爆発現象](https://fukushimahj.github.io/FSFG2024/pdfs/FSFG2024_Fujibayashi20241113.pdf)|
 |1015||梅田秀之|東京大学|[10^5 Msun 程度の Supermassive Star の進化と爆発](https://fukushimahj.github.io/FSFG2024/pdfs/Umeda.pdf)|
 |1035||休憩|||
 |1055||福島肇|筑波大学|[GPU上で動くAMR流体計算コードの開発と現状について](https://fukushimahj.github.io/FSFG2024/pdfs/FSFG2024_Fukushima.pdf)|
