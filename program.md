@@ -38,7 +38,7 @@ title: プログラム/Program
 |1155||岡田寛子|兵庫県立大学|weak r-process 元素合成の起源|
 |1215||昼食|||
 |1345|I|衣川智弥|信州大学|初代星起源の重力波|
-|1430||野村真理子|弘前大学|Line-driven disc winds from supercritical accretion flow: implications for BH growth|
+|1430||野村真理子|弘前大学|[Line-driven disc winds from supercritical accretion flow: implications for BH growth](https://fukushimahj.github.io/FSFG2024/pdfs/firststar_nomura.pdf)|
 |1450||休憩|||
 |1510|I|尾上匡房|Kavli IPMU|JWST初年度観測から得られた超巨大ブラックホール初期成長の描像|
 |1555||木村和貴|東北大学|[The Impact of X-ray on Direct Collapse under HERA Constraints](https://fukushimahj.github.io/FSFG2024/pdfs/kimura.pdf)|
