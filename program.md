@@ -14,7 +14,7 @@ title: プログラム/Program
 |1120||松田凌|北海道大学|[宇宙論的シミュレーションにおける初代星フィードバックの初代星質量およびハロー質量依存性](https://fukushimahj.github.io/FSFG2024/pdfs/matsuda.pdf), [[pptx](https://fukushimahj.github.io/FSFG2024/pdfs/matsuda.pptx)]|
 |1140||石田怜士|東北大学|[初代銀河の形成過程における種族II星の初期質量関数とその影響](https://fukushimahj.github.io/FSFG2024/pdfs/reishi_ishida.pdf)|
 |1200||昼食|||
-|1330|I|大内正己|国立天文台<br>東京大学|初期銀河と宇宙再電離の観測研究最前線：JWSTと地上望遠鏡の協創|
+|1330|I|大内正己|国立天文台<br>東京大学|[初期銀河と宇宙再電離の観測研究最前線：JWSTと地上望遠鏡の協創](https://fukushimahj.github.io/FSFG2024/pdfs/ouchi_20241113_ShinshuFirstStarGalaxy.pdf)|
 |1415||清田朋和|総研大<br>国立天文台|JWSTで探るz=6.6のHimikoの性質|
 |1435||休憩|||
 |1455||影浦優太|東京大学|[Lyα輝線観測で探る宇宙再電離史と再電離源](https://fukushimahj.github.io/FSFG2024/pdfs/FSG_Kageura_241111.pdf)|
